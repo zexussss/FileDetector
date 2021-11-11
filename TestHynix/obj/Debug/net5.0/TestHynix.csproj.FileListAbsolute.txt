@@ -1,0 +1,32 @@
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.exe
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.deps.json
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.runtimeconfig.json
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.dll
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\bin\Debug\net5.0\ref\TestHynix.dll
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.pdb
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.dll
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\ref\TestHynix.dll
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.pdb
+C:\Users\Alexander\Desktop\ТЗ Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.dll
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\ref\TestHynix.dll
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.pdb
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.exe
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.deps.json
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.runtimeconfig.json
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.runtimeconfig.dev.json
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.dll
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\bin\Debug\net5.0\ref\TestHynix.dll
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\bin\Debug\net5.0\TestHynix.pdb
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Hynix\TestHynix\TestHynix\obj\Debug\net5.0\TestHynix.csproj.AssemblyReference.cache
